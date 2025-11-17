@@ -2,7 +2,7 @@
 
 🎓 **Computer Science @ Virginia Tech** <br>
 💡 Passion for **research, artificial intelligence,** and **software development**  
-📍 🏠 Fairfax, VA → 🏫 Blacksburg, PA
+📍 🏠 Fairfax, VA → 🏫 Blacksburg, VA
 
 ---
 
