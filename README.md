@@ -32,8 +32,7 @@
 
 ---
 
-## 🤝 Let’s Connect  
-- 💻 [Personal Website](https://Vini-41.github.io/)
+## Let’s Connect  
 - 📧 ok77@vt.edu
 - 🔗 [LinkedIn](https://www.linkedin.com/in/vr41)  
 ---
